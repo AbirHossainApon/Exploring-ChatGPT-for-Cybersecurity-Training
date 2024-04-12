@@ -1,8 +1,8 @@
 
-# 💻 ChatGPT 4 Prompts for hackers and developers
+# 💻 Exploring ChatGPT for Cybersecurity Training
 
 
-## Hacker Prompts 🕵️🖥️
+## Cyber Security Prompts 🕵️🖥️
 
 - "Describe the differences between white hat, black hat, and grey hat hackers, and discuss their ethical implications."
 - "Explain the concept of 'social engineering' in hacking and provide examples of how it might be used."
